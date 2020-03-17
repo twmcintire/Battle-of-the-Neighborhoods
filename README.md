@@ -18,18 +18,18 @@ Five total cities will be examined:
 Geographical coordinates data will be utilized as input for the Foursquare API, that will be leveraged to provision sushi restaurant venues information for each neighborhood. We will use the Foursquare API to explore neighborhoods in the noted cities above.
 ### Data Set 2
 I will also be leveraging Wikipedia on population densities within the cities noted above. 
---https://en.wikipedia.org/wiki/Lansing,_Michigan 
---https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan 
---https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan 
---https://en.wikipedia.org/wiki/Traverse_City,_Michigan 
---https://en.wikipedia.org/wiki/Royal_Oak,_Michigan
+-https://en.wikipedia.org/wiki/Lansing,_Michigan 
+-https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan 
+-https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan 
+-https://en.wikipedia.org/wiki/Traverse_City,_Michigan 
+-https://en.wikipedia.org/wiki/Royal_Oak,_Michigan
 ### Data Set 3
 I will be leveraging Wikipedia on demographics within the cities noted above: 
---https://en.wikipedia.org/wiki/Lansing,_Michigan#Demographics 
---https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan#Demographics 
---https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan#Demographics 
---https://en.wikipedia.org/wiki/Traverse_City,_Michigan#Demographics 
---https://en.wikipedia.org/wiki/Royal_Oak,_Michigan#Demographics
+-https://en.wikipedia.org/wiki/Lansing,_Michigan#Demographics 
+-https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan#Demographics 
+-https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan#Demographics 
+-https://en.wikipedia.org/wiki/Traverse_City,_Michigan#Demographics 
+-https://en.wikipedia.org/wiki/Royal_Oak,_Michigan#Demographics
 ## Methodology
 Data will be colleceted from Foursquare API for venues and then filtered by Sushi restuarant.
 
