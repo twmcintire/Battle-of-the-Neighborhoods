@@ -4,11 +4,10 @@ The basis of this report is to provide insight to anyone planning on opening a s
 ## Business Problem
 A potential client is interested in starting a sushi restaurant franchise and needs to know which of the 5 chosen locations would be best situated to begin the franchise. However, he does not know which location would be best suited for his beginning franchise. The factors to consider are:
 The client does not like to have a lot of competition as individuals that enjoy sushi are part of a niche group of cliental. 
-•	The right target audience. 
-•	Population
-•	Demographics
-•	Number of competitors
-
+The right target audience
+Population
+Demographics
+Number of competitors
 ## Data Set
 ### Data Set 1
 ### Data Set 2
