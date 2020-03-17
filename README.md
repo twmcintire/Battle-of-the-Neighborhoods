@@ -30,3 +30,12 @@ I will be leveraging Wikipedia on demographics within the cities noted above:
 --https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan#Demographics 
 --https://en.wikipedia.org/wiki/Traverse_City,_Michigan#Demographics 
 --https://en.wikipedia.org/wiki/Royal_Oak,_Michigan#Demographics
+## Methodology
+Data will be colleceted from Foursquare API for venues and then filtered by Sushi restuarant.
+
+Data will be collected from Wikipedia for population and demographics then cleansed and stored within a local .csv file for easy consumption.
+
+Finally, the data be will be visually assessed using graphing from various Python libraries
+## Results
+## Discussion
+## Conclusion
