@@ -38,6 +38,6 @@ Data will be collected from Wikipedia for population and demographics then clean
 Finally, the data be will be visually assessed using graphing from various Python libraries
 ## Results
 Examining the data from Foursquare we can see that there are multiple sushi restaurants located in each city. Total Number of Sushit Restaurants in Lansing, MI = 51 Total Number of Sushit Restaurants in Grand Rapids, MI = 55 Total Number of Sushit Restaurants in Traverse City, MI = 4 Total Number of Sushit Restaurants in Royal Oak, MI = 31 Total Number of Sushit Restaurants in Ann Arbor, MI = 61 This does not mean, however, that we automatically pick the lowest competition dense city as we also need to consider population desity.
-
+![Toronto](https://github.com/twmcintire/Coursera_Capstone/blob/master/Toronto_Canada_2.PNG)
 ## Discussion
 ## Conclusion
