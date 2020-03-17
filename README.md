@@ -54,5 +54,18 @@ Traverse City, MI
 Royal Oak, MI
 ![Ann Arbor, MI](https://github.com/twmcintire/Battle-of-the-Neighborhoods/blob/master/Ann%20Arbor.PNG)
 Ann Arbor, MI
+
+Demographics is the next thing that was examined. 
+![Demographics](https://github.com/twmcintire/Battle-of-the-Neighborhoods/blob/master/demographics.PNG)
+Reviewing the data above for population and demographics on race and age, we can see that just because Traverse City only has 4 sushi restaurants it only has a population of 14674. So we need to determine the saturation point of a sushi restaurant.
 ## Discussion
+As a final note, all of the above analysis is depended on the adequacy and accuracy of Four Square data. A more comprehensive analysis and future work would need to incorporate data from other external databases.
 ## Conclusion
+Looking at the data for each city we can digest the following for each sushi restaurant there is the potential for X number of customers per city:
+- Lansing Sushi Restaurant to Population Lansing:          2241
+- Lansing Sushi Restaurant to Population Grand Rapids:     3419
+- Lansing Sushi Restaurant to Population Traverse City:    3669
+- Lansing Sushi Restaurant to Population Royal Oak:        1846
+- Lansing Sushi Restaurant to Population Ann Arbor:        1868
+
+Reviewing the data it would be the client's best option to open a starter franchise in either Traverse City or Grand Rapids because the compeition is relatively the same. One factor to keep in mind is that the Asian population according tot he 2010 Census shows that only 102 individuals living in Traverse City is of Asian decent whereas in Grand Rapdids there are 4323 individuals of Asian decent.
