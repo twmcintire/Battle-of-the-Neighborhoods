@@ -18,18 +18,18 @@ Five total cities will be examined:
 Geographical coordinates data will be utilized as input for the Foursquare API, that will be leveraged to provision sushi restaurant venues information for each neighborhood. We will use the Foursquare API to explore neighborhoods in the noted cities above.
 ### Data Set 2
 I will also be leveraging Wikipedia on population densities within the cities noted above. 
--https://en.wikipedia.org/wiki/Lansing,_Michigan 
--https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan 
--https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan 
--https://en.wikipedia.org/wiki/Traverse_City,_Michigan 
--https://en.wikipedia.org/wiki/Royal_Oak,_Michigan
+- https://en.wikipedia.org/wiki/Lansing,_Michigan 
+- https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan 
+- https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan 
+- https://en.wikipedia.org/wiki/Traverse_City,_Michigan 
+- https://en.wikipedia.org/wiki/Royal_Oak,_Michigan
 ### Data Set 3
 I will be leveraging Wikipedia on demographics within the cities noted above: 
--https://en.wikipedia.org/wiki/Lansing,_Michigan#Demographics 
--https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan#Demographics 
--https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan#Demographics 
--https://en.wikipedia.org/wiki/Traverse_City,_Michigan#Demographics 
--https://en.wikipedia.org/wiki/Royal_Oak,_Michigan#Demographics
+- https://en.wikipedia.org/wiki/Lansing,_Michigan#Demographics 
+- https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan#Demographics 
+- https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan#Demographics 
+- https://en.wikipedia.org/wiki/Traverse_City,_Michigan#Demographics 
+- https://en.wikipedia.org/wiki/Royal_Oak,_Michigan#Demographics
 ## Methodology
 Data will be colleceted from Foursquare API for venues and then filtered by Sushi restuarant.
 
@@ -38,11 +38,11 @@ Data will be collected from Wikipedia for population and demographics then clean
 Finally, the data be will be visually assessed using graphing from various Python libraries
 ## Results
 Examining the data from Foursquare we can see that there are multiple sushi restaurants located in each city. Total Number of Sushit Restaurants in: 
--Lansing, MI =  51
--Grand Rapids, MI =  55
--Traverse City, MI =  4
--Royal Oak, MI =  31
--Ann Arbor, MI =  61
+- Lansing, MI = 51
+- Grand Rapids, MI = 55
+- Traverse City, MI = 4
+- Royal Oak, MI = 31
+- Ann Arbor, MI = 61
 This does not mean, however, that we automatically pick the lowest competition dense city as we also need to consider population desity.
 ![Lansing, MI](https://github.com/twmcintire/Battle-of-the-Neighborhoods/blob/master/Lansing.PNG)
 Lansing, MI
