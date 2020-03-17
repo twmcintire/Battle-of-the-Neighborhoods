@@ -38,16 +38,21 @@ Data will be collected from Wikipedia for population and demographics then clean
 Finally, the data be will be visually assessed using graphing from various Python libraries
 ## Results
 Examining the data from Foursquare we can see that there are multiple sushi restaurants located in each city. Total Number of Sushit Restaurants in: 
---Lansing, MI =  51
---Grand Rapids, MI =  55
---Traverse City, MI =  4
---Royal Oak, MI =  31
---Ann Arbor, MI =  61
+-Lansing, MI =  51
+-Grand Rapids, MI =  55
+-Traverse City, MI =  4
+-Royal Oak, MI =  31
+-Ann Arbor, MI =  61
 This does not mean, however, that we automatically pick the lowest competition dense city as we also need to consider population desity.
 ![Lansing, MI](https://github.com/twmcintire/Battle-of-the-Neighborhoods/blob/master/Lansing.PNG)
+Lansing, MI
 ![Grand Rapids, MI](https://github.com/twmcintire/Battle-of-the-Neighborhoods/blob/master/Grand%20Rapids.PNG)
+Grand Rqapids, MI
 ![Traverse City, MI](https://github.com/twmcintire/Battle-of-the-Neighborhoods/blob/master/Traverse%20City.PNG)
+Traverse City, MI
 ![Royal Oak, MI](https://github.com/twmcintire/Battle-of-the-Neighborhoods/blob/master/Royal%20Oak.PNG)
+Royal Oak, MI
 ![Ann Arbor, MI](https://github.com/twmcintire/Battle-of-the-Neighborhoods/blob/master/Ann%20Arbor.PNG)
+Ann Arbor, MI
 ## Discussion
 ## Conclusion
